@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct ContentView: View {
-    
     //This State var is used to show a different message for each step of implementing a binding variable.
     @State var step = 1
     
